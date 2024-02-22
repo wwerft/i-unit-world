@@ -1868,7 +1868,7 @@
                  "name":"to OG",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"ez_og.tmj#from-eventEG"
                         }],
@@ -1876,8 +1876,8 @@
                  "type":"area",
                  "visible":true,
                  "width":192,
-                 "x":2756,
-                 "y":2030
+                 "x":2716,
+                 "y":1998
                 }],
          "opacity":1,
          "type":"objectgroup",
