@@ -1573,7 +1573,7 @@
          "name":"Rahmen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -1600,7 +1600,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"url",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/cryptpad.fr\/pad\/#\/2\/pad\/edit\/3L-vfl0VjKICQGBbsHehVC1j\/"
                         }],
