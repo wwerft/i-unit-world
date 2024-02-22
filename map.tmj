@@ -6794,7 +6794,7 @@
         {
          "columns":12,
          "firstgid":6401,
-         "image":"..\/..\/wissenw\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -6807,7 +6807,7 @@
         {
          "columns":10,
          "firstgid":6557,
-         "image":"..\/..\/wissenw\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -6820,7 +6820,7 @@
         {
          "columns":12,
          "firstgid":6667,
-         "image":"..\/..\/wissenw\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -6833,7 +6833,7 @@
         {
          "columns":13,
          "firstgid":6763,
-         "image":"..\/..\/wissenw\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -6846,7 +6846,7 @@
         {
          "columns":6,
          "firstgid":6945,
-         "image":"..\/..\/wissenw\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
