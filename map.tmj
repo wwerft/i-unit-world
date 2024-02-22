@@ -6768,7 +6768,7 @@
         {
          "columns":40,
          "firstgid":1,
-         "image":"..\/..\/wissenw\/tilesets\/group-Map-Textruren.png",
+         "image":"tilesets\/group-Map-Textruren.png",
          "imageheight":2560,
          "imagewidth":1280,
          "margin":0,
@@ -6781,7 +6781,7 @@
         {
          "columns":40,
          "firstgid":3201,
-         "image":"..\/..\/wissenw\/tilesets\/group-Map-Textruren.png",
+         "image":"tilesets\/group-Map-Textruren.png",
          "imageheight":2560,
          "imagewidth":1280,
          "margin":0,
