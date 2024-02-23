@@ -1132,7 +1132,7 @@
                          "value":"\/@\/wa\/wissenswerft\/event-og"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":100,
                  "x":0,
                  "y":0
@@ -1464,6 +1464,12 @@
                  "id":42,
                  "name":"TreppeOG",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"\/@\/wa\/wissenswerft\/event-og"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":100,
@@ -3532,21 +3538,21 @@
          "name":"extras",
          "objects":[
                 {
-                 "height":80,
+                 "height":91.5,
                  "id":13,
                  "name":"to-og",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ez_og.tmj#from-eventEG"
+                         "value":"\/@\/wa\/wissenswerft\/event-og"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":192,
-                 "x":2716,
-                 "y":1998
+                 "width":135.5,
+                 "x":2779.5,
+                 "y":1986.5
                 }, 
                 {
                  "height":228,
@@ -3564,6 +3570,17 @@
                  "width":520,
                  "x":1212,
                  "y":2518
+                }, 
+                {
+                 "height":87.5,
+                 "id":16,
+                 "name":"from-og",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":114,
+                 "x":2641.5,
+                 "y":1988.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3593,7 +3610,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":16,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
