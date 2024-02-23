@@ -1129,7 +1129,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/visit.fnord.world\/_\/global\/raw.githubusercontent.com\/wwerft\/workadventure\/main\/i-unit-Startermap.tmj"
+                         "value":"map.tmj"
                         }],
                  "type":"tilelayer",
                  "visible":true,
