@@ -1129,7 +1129,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj"
+                         "value":"\/@\/wa\/wissenswerft\/event-og"
                         }],
                  "type":"tilelayer",
                  "visible":true,
