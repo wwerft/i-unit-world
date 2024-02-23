@@ -3117,10 +3117,10 @@
                 {
                  "height":382,
                  "id":14,
-                 "name":"Jitsy1",
+                 "name":"Jitsi1",
                  "properties":[
                         {
-                         "name":"jitsyRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"Meeting1"
                         }],
