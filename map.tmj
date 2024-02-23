@@ -3171,7 +3171,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/events.portal.i-unit.group\/api\/scope\/_client\/asset\/131844\/format\/p2fdocument\/content\/index.html#1?shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTMxODQ0fQ.https:\/\/events.portal.i-unit.group\/api\/scope\/_client\/asset\/131784\/format\/p2fdocument\/content\/index.html#1?shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTMxNzg0fQ.https:\/\/events.portal.i-unit.group\/api\/scope\/_client\/asset\/131784\/format\/p2fdocument\/content\/index.html#1?shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTMxNzg0fQ.qAxksyTChwtfIK_5ke04iZfsiRs4RA9z19QfsGukAsY"
+                         "value":"https:\/\/events.portal.i-unit.group\/api\/scope\/_client\/asset\/131784\/format\/p2fdocument\/content\/index.html#1?shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTMxNzg0fQ.qAxksyTChwtfIK_5ke04iZfsiRs4RA9z19QfsGukAsY"
                         }],
                  "type":"tilelayer",
                  "visible":true,
