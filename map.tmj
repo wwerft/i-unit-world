@@ -5227,7 +5227,7 @@
                  "name":"exit",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"#"
                         }],
@@ -5266,7 +5266,7 @@
                  "name":"exit",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"wissenswerft.net"
                         }],
@@ -5768,7 +5768,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":8,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
