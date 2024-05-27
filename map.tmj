@@ -5220,6 +5220,23 @@
                  "width":164,
                  "x":2992,
                  "y":616
+                }, 
+                {
+                 "height":179,
+                 "id":6,
+                 "name":"exit",
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"#"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":114,
+                 "x":2687,
+                 "y":2789
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5751,7 +5768,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":6,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
