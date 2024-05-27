@@ -1673,7 +1673,7 @@
          "name":"garten",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1786,7 +1786,7 @@
                  "name":"floor1",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -1897,7 +1897,7 @@
                  "name":"floor2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":100,
                  "x":0,
                  "y":0
@@ -1905,7 +1905,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -5240,6 +5240,40 @@
         }, 
         {
          "draworder":"topdown",
+         "id":78,
+         "name":"Exit",
+         "objects":[
+                {
+                 "height":177,
+                 "id":5,
+                 "name":"Exit",
+                 "properties":[
+                        {
+                         "name":"exitURL",
+                         "type":"string",
+                         "value":"#"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":222,
+                 "x":2822,
+                 "y":2794
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitURL",
+                 "type":"string",
+                 "value":"#"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":13,
          "locked":true,
          "name":"floorLayer",
@@ -5257,23 +5291,6 @@
          "name":"configuration",
          "objects":[],
          "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":78,
-         "name":"Exit",
-         "objects":[],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitURL",
-                 "type":"string",
-                 "value":"#"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -5733,8 +5750,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":79,
- "nextobjectid":5,
+ "nextlayerid":80,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
