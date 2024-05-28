@@ -5258,24 +5258,35 @@
         {
          "draworder":"topdown",
          "id":78,
-         "name":"Exit",
+         "name":"exits_entries",
          "objects":[
                 {
-                 "height":177,
+                 "height":69,
                  "id":5,
-                 "name":"exit",
+                 "name":"to-og",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"wissenswerft.net"
+                         "value":"\/@\/wa\/wissenswerft\/event-og"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":222,
-                 "x":2822,
-                 "y":2794
+                 "width":94,
+                 "x":2623,
+                 "y":1636
+                }, 
+                {
+                 "height":45,
+                 "id":11,
+                 "name":"from-og",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":130,
+                 "x":2604,
+                 "y":1822
                 }],
          "opacity":1,
          "properties":[
@@ -5768,7 +5779,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":10,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
