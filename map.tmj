@@ -5265,7 +5265,7 @@
                  "id":11,
                  "name":"from-og",
                  "rotation":0,
-                 "type":"area",
+                 "type":"from-og",
                  "visible":true,
                  "width":130,
                  "x":2604,
