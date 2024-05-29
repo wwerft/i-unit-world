@@ -5264,8 +5264,14 @@
                  "height":45,
                  "id":11,
                  "name":"from-og",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "rotation":0,
-                 "type":"from-og",
+                 "type":"area",
                  "visible":true,
                  "width":130,
                  "x":2604,
