@@ -8458,7 +8458,7 @@
         {
          "columns":6,
          "firstgid":12613,
-         "image":"..\/workadventure\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
