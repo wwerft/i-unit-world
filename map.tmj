@@ -6335,8 +6335,8 @@
                  "type":"area",
                  "visible":true,
                  "width":144.666666666667,
-                 "x":1712.33333333333,
-                 "y":2340.66666666667
+                 "x":1719.33333333333,
+                 "y":2363
                 }, 
                 {
                  "height":100,
@@ -6346,7 +6346,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/knowledgebase.portal.i-unit.group\/api\/scope\/_client\/asset\/92326\/format\/p2fdocument\/content\/index.html#1?shareToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6OTIzMjZ9.wVo98O6wvlyM-nacmnm8REWOrSs5TA6BO9_LSBZVyeo"
+                         "value":"https:\/\/wissenswerft.net\/workadventure\/iu-praese\/"
                         }],
                  "rotation":0,
                  "type":"area",
